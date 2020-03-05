@@ -2,7 +2,7 @@
 
 ![Screenshot1](https://trello-attachments.s3.amazonaws.com/55f936eb551d491dca7e03e1/5d484bcc12ae6e714f3b30e0/162ba5504547627eec03b6308a86b7e9/image.png)
 
-(all files and pictures stolen from Diabotical official)
+(pictures stolen from Diabotical official)
 
 some neat descriptions here
 
