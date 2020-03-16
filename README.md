@@ -14,7 +14,6 @@
     <img src="https://trello-attachments.s3.amazonaws.com/55f936eb551d491dca7e03e1/5d484193a685cf1b7196807f/cb6d7850a21dfc665c710c4908bfff49/image.png" width="24%">
     <img src="https://trello-attachments.s3.amazonaws.com/55f936eb551d491dca7e03e1/5d484193a685cf1b7196807f/cf10c57ee2c7464031dac8eb59bf5d0e/image.png" width="24%">
     <img src="https://trello-attachments.s3.amazonaws.com/55f936eb551d491dca7e03e1/5d484193a685cf1b7196807f/cdae363e80a56ca9b4699ba6d6509671/image.png" width="24%">
-    <img src="https://trello-attachments.s3.amazonaws.com/55f936eb551d491dca7e03e1/5d484193a685cf1b7196807f/c29ac8c76194d456768436d69c71829a/image.png" width="24%">
     <img src="https://trello-attachments.s3.amazonaws.com/55f936eb551d491dca7e03e1/5d484193a685cf1b7196807f/318a6aaecc157dcf421fec17198dab6f/image.png" width="24%">
     <img src="https://trello-attachments.s3.amazonaws.com/55f936eb551d491dca7e03e1/5d484193a685cf1b7196807f/c426711be1a2cb0b2a36898ed1349ca3/image.png" width="24%">
   </div>
