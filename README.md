@@ -1,4 +1,5 @@
 # Example map showcase page - Map Title here
+(sample images stolen from Diabotical Official Trello)
 <img src="https://trello-attachments.s3.amazonaws.com/55f936eb551d491dca7e03e1/5d484193a685cf1b7196807f/54f86c42d984b301ad45b6149b08960d/image.png">
 <details>
   <summary>Click to view all images
