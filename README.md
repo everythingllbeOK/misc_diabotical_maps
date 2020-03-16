@@ -14,11 +14,11 @@ some neat descriptions here some neat descriptions here some neat descriptions h
 
 ## Download Instructions
 
-[Click here to download]() (link to a zip file hosted in Release rather than the repo files).
+[Click here to download]() (link to a zip file hosted in Release rather than the repo files), then extract content to
 
-Extract content to
-
-    <programfiles>\Epic Games\Diabotical\maps
+    <programfilesdirectory>\Epic Games\Diabotical\maps
+    
+Then restart your game.
 
 ## Gallery
 
