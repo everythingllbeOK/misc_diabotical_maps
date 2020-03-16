@@ -16,19 +16,15 @@
 
 ## Descriptions
 
-some neat descriptions here
+some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here some neat descriptions here 
 
-some neat descriptions here
+## Download Instructions
 
-some neat descriptions here
+[Click here to download]() (link to a zip file hosted in Release rather than the repo files).
 
-some neat descriptions here
+Extract content to
 
-some neat descriptions here
-
-some neat descriptions here
-
-some neat descriptions here
+```<programfiles>\Epic Games\Diabotical\maps```
 
 ## Gallery
 
