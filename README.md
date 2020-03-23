@@ -27,7 +27,7 @@ some neat descriptions here some neat descriptions here some neat descriptions h
 
 ## Download Instructions
 
-[Click here to download]() (link to a zip file hosted in Release rather than the repo files), then extract content to
+[Click here to download](https://github.com/everythingllbeOK/my_first_diabotical_map/releases) (link to a zip file hosted in Release rather than the repo files), then extract content to
 
     %ProgramFiles%\Epic Games\Diabotical\maps
     
